@@ -1,4 +1,4 @@
-# A2 Developers - Unified Data Platform
+# A2 Developers 
 
 A modern full-stack web application built with React, Node.js, and PostgreSQL, featuring a responsive design with video backgrounds and contact management system.
 
