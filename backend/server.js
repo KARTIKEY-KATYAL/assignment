@@ -60,8 +60,6 @@ process.on('SIGINT', async () => {
 // Start server
 app.listen(PORT, () => {
   console.log(`🚀 Server running on port ${PORT}`);
-  console.log(`📊 Health check: http://localhost:${PORT}/api/health`);
-  console.log(`📝 Contacts API: http://localhost:${PORT}/api/contacts`);
 });
 
 export default app;
